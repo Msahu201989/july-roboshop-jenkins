@@ -11,5 +11,5 @@
     config: "{{ lookup('file', 'templates/mbranch.xml') }}"
     name: testm
     password: admin123
-    url: http://172.31.16.102:8080
+    url: http://172.31.93.12:8080
     user: admin
